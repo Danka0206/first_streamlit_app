@@ -62,4 +62,4 @@ streamlit.write('Thanks for adding ', add_my_fruit)
 #fruityvice_response1 = requests.get("https://fruityvice.com/api/fruit/" + add_my_fruit)
 #streamlit.text(fruityvice_response1.json())
 
-my_cur.execute("insert into fruit_load_list values ('jackfruit')")
+my_cur.execute("insert into fruit_load_list values ('papaya')")
